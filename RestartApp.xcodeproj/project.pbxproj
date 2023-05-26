@@ -55,9 +55,11 @@
 		6C1F82F82A2109BD00073BA9 /* RestartApp */ = {
 			isa = PBXGroup;
 			children = (
+				6C1F830E2A210CC900073BA9 /* Utilities */,
+				6C1F830D2A210CAC00073BA9 /* Views */,
 				6C1F830B2A210A9B00073BA9 /* Sounds */,
 				6C1F82F92A2109BD00073BA9 /* RestartAppApp.swift */,
-				6C1F82FB2A2109BD00073BA9 /* ContentView.swift */,
+				6C1F830C2A210C8800073BA9 /* Screens */,
 				6C1F82FD2A2109BE00073BA9 /* Assets.xcassets */,
 				6C1F82FF2A2109BE00073BA9 /* Preview Content */,
 			);
@@ -79,6 +81,28 @@
 				6C1F83072A210A8500073BA9 /* success.m4a */,
 			);
 			path = Sounds;
+			sourceTree = "<group>";
+		};
+		6C1F830C2A210C8800073BA9 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				6C1F82FB2A2109BD00073BA9 /* ContentView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		6C1F830D2A210CAC00073BA9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6C1F830E2A210CC900073BA9 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
