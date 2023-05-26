@@ -12,16 +12,16 @@ struct HomeView: View {
     @AppStorage("onboarding") var isOnboardingViewActive: Bool = false
     
     var body: some View {
-        VStack(spacing: 20, content: {
-            Text("Home")
-                .font(.largeTitle)
-            Button {
-                isOnboardingViewActive = true
-            } label: {
-                Text("Restart")
-            }
-
-        })
+            VStack(spacing: 20, content: {
+                Text("Home")
+                    .font(.largeTitle)
+                Button {
+                    isOnboardingViewActive = true
+                } label: {
+                    Text("Restart")
+                }
+                
+            }) // VStack
     }
 }
 
