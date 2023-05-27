@@ -1,3 +1,5 @@
 # RestartApp
 
-<img src="https://github.com/tacettinkustu/RestartApp/assets/51737508/db3f9ad7-6c65-4e5a-abc4-484107bec158" width="350">
+https://github.com/tacettinkustu/RestartApp/assets/51737508/64cfe2d7-d795-4388-88cf-1b99f0471765
+
+
