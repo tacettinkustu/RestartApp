@@ -1,6 +1,6 @@
 # RestartApp
 
-Welcome to Restart, a SwiftUI project that aimed to inspire you with the possibilities of the SwiftUI framework.
+Welcome to RestartApp, a SwiftUI project that aimed to inspire you with the possibilities of the SwiftUI framework.
 
 <p align="center">
 <img src="https://github.com/tacettinkustu/RestartApp/assets/51737508/60655778-8fd6-48c0-85fb-b9219197c3f0" width="360" class="border" />
